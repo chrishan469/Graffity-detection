@@ -1,0 +1,6 @@
+
+train: /content/drive/MyDrive/GRAF/dataset/images/train
+val: /content/drive/MyDrive/GRAF/dataset/images/val
+
+nc: 1
+names: ['graffiti']
